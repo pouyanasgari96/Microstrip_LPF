@@ -1,0 +1,5 @@
+3:42:14 PM Sun, 05/30/2021 Log: Do check dataset with the current document
+3:42:14 PM Sun, 05/30/2021 Log: Compare the document with the dataset 'EM_Sim_DS5'
+3:42:14 PM Sun, 05/30/2021 Log: [_AUTO_PORTS_]
+3:42:14 PM Sun, 05/30/2021 Log: Re-simulation, geometry has changed
+3:42:14 PM Sun, 05/30/2021 Log: Schedule simulation job with AWR AXIEM® - Async
